@@ -1,0 +1,63 @@
+.title {
+    background-color: black;
+    color: rgb(223, 222, 222);
+    font-family: "Papyrus", fantasy;
+    text-align: center;
+}
+
+.recipes {
+    background-color: grey;
+    text-align: center;
+    list-style: none;
+    border-style: solid;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+a {
+    text-decoration: none;
+    font-size: 20px;
+    font-family: "Papyrus", fantasy;
+    font-weight: bold;
+}
+
+a:link {
+    color: black;
+}
+
+a:visited {
+    color: black;
+}
+
+a:hover {
+    color: white;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: solid;
+}
+
+.main {
+    background-color: rgb(255, 241, 223);
+    border-style: solid;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.subtitle {
+    font-family: "Lucida Handwriting", cursive;
+    margin-left: 1cm;
+}
+
+.text {
+    font-family: "Georgia", serif;
+    margin-left: 1cm;
+    margin-right: 1cm;
+}
+
+.text.bold {
+    font-weight: bold;
+}
